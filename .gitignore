@@ -1,1 +1,4 @@
-# Git Ignore File
+# Ignorar archivos innecesarios
+__pycache__/
+*.log
+.env
